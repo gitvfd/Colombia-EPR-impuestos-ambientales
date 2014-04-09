@@ -1,1 +1,16 @@
-variable,country,valueProductos energéticos,Colombia,0.59Productos energéticos,Chile,0.84Productos energéticos,OCDE,1.35Productos energéticos,Sudáfrica,1.96Productos energéticos,Brasil,2.01Vehículos automotores,Colombia,0.07Vehículos automotores,Chile,0.22Vehículos automotores,OCDE,0.48Vehículos automotores,Sudáfrica,0.14Vehículos automotores,Brasil,1.50Otros,Colombia,0.00Otros,Chile,0.04Otros,OCDE,0.04Otros,Sudáfrica,0.20Otros,Brasil,0.00
+variable,country,value
+Productos energeticos,Colombia,0.59
+Productos energeticos,Chile,0.84
+Productos energeticos,OCDE,1.35
+Productos energeticos,Sudafrica,1.96
+Productos energeticos,Brasil,2.01
+Vehiculos automotores,Colombia,0.07
+Vehiculos automotores,Chile,0.22
+Vehiculos automotores,OCDE,0.48
+Vehiculos automotores,Sudafrica,0.14
+Vehiculos automotores,Brasil,1.50
+Otros,Colombia,0.00
+Otros,Chile,0.04
+Otros,OCDE,0.04
+Otros,Sudafrica,0.20
+Otros,Brasil,0.00
